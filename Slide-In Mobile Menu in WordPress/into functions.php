@@ -1,0 +1,1 @@
+wp_enqueue_script( 'wpb_slidepanel', get_template_directory_uri() . '/js/slidepanel.js', array('jquery'), '20160909', true );
