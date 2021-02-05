@@ -1,5 +1,7 @@
 ** from a post by WPBeginner that can be found <a href="https://www.wpbeginner.com/wp-themes/how-to-create-a-mobile-ready-responsive-wordpress-menu/" >here</a>
 
+See if you can make it work for your Wordpress Install
+
 Another common technique to add a mobile menu is by using a slide-in panel menu (as shown in Responsive with toggle effect).
 
 This method requires you to add code to your WordPress theme files, and it is just a different way of accomplishing the same results.
@@ -31,3 +33,5 @@ Notice that your theme’s navigation menu is still there. We have just wrapped 
 Last step is to add CSS to hide the menu image icon on larger screens. You will also need to adjust the position of the menu icon.
 
 The sample CSS provided is just a starting point. Depending on your WordPress theme, you may need to adjust the CSS to avoid conflicts.
+
+
